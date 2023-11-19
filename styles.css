@@ -1,0 +1,8 @@
+body {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: blanchedalmond;
+}
+
+#sketchPadContainer {
+    border: 2px, red;
+}
